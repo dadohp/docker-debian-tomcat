@@ -4,9 +4,9 @@ Maintainer: [Robertus Lilik Haryanto]
 
 This image is updated via pull requests to the `secangkirkopipanas/docker-debian-tomcat` [GitHub repo]. It is an extension of Debian image for OpenJDK 8 with Apache Tomcat software.
 
-## Supported tags for Apache Tomcat 8 with OpenJDK 8
-- `latest.tomcat8` [(latest.tomcat8/Dockerfile)]
-- `jessie.tomcat8` [`coming soon`]
+## Supported tags for Apache Tomcat 8
+- `latest.tomcat8` [(master/Dockerfile)]
+- `jessie.tomcat8` [(jessie.tomcat8/Dockerfile)]
 
 ## How to start/stop Apache Tomcat?
 Start Docker image
