@@ -1,4 +1,4 @@
-# Debian Docker Image
+# Debian with OpenJDK 8 and Apache Tomcat Docker Image
 
 Maintainer: [Robertus Lilik Haryanto]
 
