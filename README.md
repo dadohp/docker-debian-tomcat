@@ -9,15 +9,17 @@ This image is updated via pull requests to the `secangkirkopipanas/docker-debian
 - `jessie.tomcat8` [`coming soon`]
 
 ## How to start/stop Apache Tomcat?
-1. Start Docker image
+Start Docker image
 ```sh
 docker run -it -p 8080:8080 secangkirkopipanas/debian-tomcat:latest.tomcat8
 ```
-2. Start Apache Tomcat
+
+Start Apache Tomcat
 ```sh
 service tomcat start
 ```
-3. Stop Apache Tomcat
+
+Stop Apache Tomcat
 ```sh
 service tomcat stop
 ```
