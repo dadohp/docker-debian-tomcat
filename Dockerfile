@@ -1,6 +1,6 @@
 # Dockerfile for Apache Tomcat on top of Debian with Singapore and Indonesia mirror site.
 
-FROM secangkirkopipanas/debian:latest.openjdk8
+FROM secangkirkopipanas/debian:jessie.openjdk8
 MAINTAINER Robertus Lilik Haryanto <robert.djokdja@gmail.com>
 
 # Adding tomcat user
